@@ -18,6 +18,7 @@ SHL-Assess-Rec-System/
 │   ├── final_cleaned_dataset.csv         # Final cleaned dataset (329 assessments)
 │   ├── final_eda.py                      # EDA on cleaned dataset
 │   ├── EDA.py                             # Additional EDA
+|   ├──main.py                             # Main file of project
 │   ├── vectorized_model.py               # TF-IDF Vectorizer + Model training
 │   ├── assessment_recommender_model.pkl  # Saved Nearest Neighbors model
 │   ├── competency_vectorizer.pkl         # Saved TF-IDF vectorizer
