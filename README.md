@@ -108,6 +108,10 @@ SHL-Assess-Rec-System/
 - Add competency expansion using external datasets.
 - Improve model performance metrics.
 
+## Prototype Link
+
+-[View it here](https://shl-assessment-recommendation-system-z76pzgwg3dzgfcrzkykycr.streamlit.app/#recommended-assessments)
+
 ---
 
 ## 👨‍💻 Author
